@@ -15,12 +15,12 @@ variable "name_var" {
 
 variable "aws_access_key" {
   type    = string
-  default = "AKIASPDOOT52EPLEJ6KH"
+  default = "AKIASPDOOTyfyufkjhgcdrtdghcdrtyufjyttdfuyfc52EPLEJ6KH"
 }
 
 variable "aws_secret_key" {
   type    = string
-  default = "E8IxAqpcn98E8MFXe9nuUGTbCkCFODRdzq6Wgqln"
+  default = "E8IxAqpcn98Ekuyytgytrytrdyuhfytrtuigiuytiulti87tgkiuri87yfyt7rik68y8MFXe9nuUGTbCkCFODRdzq6Wgqln"
 }
 
 variable "region_var" {
